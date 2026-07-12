@@ -1,5 +1,3 @@
-
-
 # 📘 Developer Handbook
 
 A curated collection of notes, best practices, and practical guides for software developers.
@@ -24,10 +22,9 @@ This repository serves as a personal knowledge base to document concepts, comman
 
 ## 🚀 Getting Started
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/Shivanand24/developer-handbook.git
+cd developer-handbook
 ```
 
 ## 📜 License
